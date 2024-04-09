@@ -1,0 +1,103 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "image": "img/blog/01.jpg",
+            "date": "19 Jan 2023",
+            "title": "Understanding Smart Home Systems & Maintenance",
+            "url": "https://google.com",
+            "text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post. From connectivity problems to device malfunctions...</p>",
+            "tags": {
+                "Plumbing": "https://google.com",
+                "Architecture": "https://google.com",
+                "Maintenance": "https://google.com"
+            }
+        },
+        {
+            "id": 2,
+            "image": "img/blog/02.jpg",
+            "date": "19 Jan 2023",
+            "title": "The Ultimate Guide to Home Repairs and Renovations",
+            "url": "https://google.com",
+            "text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post. From connectivity problems to device malfunctions...</p>",
+            "tags": {
+                "Plumbing": "https://google.com",
+                "Architecture": "https://google.com"                
+            }
+        },
+        {
+            "id": 3,
+            "image": "img/blog/03.jpg",
+            "date": "19 Jan 2023",
+            "title": "In our latest blog post from connectivity",
+            "url": "https://google.com",
+            "text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post. From connectivity problems to device malfunctions...</p>",
+            "tags": {
+                "Plumbing": "https://google.com"
+                
+            }
+        },
+        {
+            "id": 4,
+            "image": "img/blog/01.jpg",
+            "date": "23 Jan 2023",
+            "title": "Common smart home issues in our latest blog post",
+            "url": "https://google.com",
+            "text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post. From connectivity problems to device malfunctions...</p>",
+            "tags": {
+                "Plumbing": "https://google.com",
+                "Architecture": "https://google.com",
+                "Maintenance": "https://google.com"
+            }
+        },
+        {
+            "id": 5,
+            "image": "img/blog/02.jpg",
+            "date": "25 Jan 2023",
+            "title": "The Ultimate Guide to Home Repairs and Renovations",
+            "url": "https://google.com",
+            "text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post. From connectivity problems to device malfunctions...</p>",
+            "tags": {
+                "Plumbing": "https://google.com",
+                "Architecture": "https://google.com"                
+            }
+        },
+        {
+            "id": 6,
+            "image": "img/blog/01.jpg",
+            "date": "19 Jan 2023",
+            "title": "Understanding Smart Home Systems & Maintenance",
+            "url": "https://google.com",
+            "text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post. From connectivity problems to device malfunctions...</p>",
+            "tags": {
+                "Plumbing": "https://google.com",
+                "Architecture": "https://google.com",
+                "Maintenance": "https://google.com"
+            }
+        },
+        {
+            "id": 7,
+            "image": "img/blog/02.jpg",
+            "date": "19 Jan 2023",
+            "title": "The Ultimate Guide to Home Repairs and Renovations",
+            "url": "https://google.com",
+            "text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post. From connectivity problems to device malfunctions...</p>",
+            "tags": {
+                "Plumbing": "https://google.com",
+                "Architecture": "https://google.com"                
+            }
+        },
+        {
+            "id": 8,
+            "image": "img/blog/03.jpg",
+            "date": "19 Jan 2023",
+            "title": "In our latest blog post from connectivity",
+            "url": "https://google.com",
+            "text": "<p>Discover the ultimate guide to troubleshooting common smart home issues in our latest blog post. From connectivity problems to device malfunctions...</p>",
+            "tags": {
+                "Plumbing": "https://google.com"
+                
+            }
+        }
+    ]
+}
